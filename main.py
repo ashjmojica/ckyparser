@@ -24,3 +24,4 @@ def parse_sentence(sentence):
 
 # Test the parser with an allowed and a not allowed sentence
 parse_sentence("I want to travel")
+parse_sentence("Random sentence")
